@@ -8,7 +8,7 @@ bot de codigo abierto para el realizar chatbots con nodejs para la realizacion d
 * dotenv
 * nodemon *solo para desarrollo*
 
-para el desarrollo  o aportar de bot se debe conocer nodejs, es6+ y variables de entorno
+para el desarrollo  o aportar de bot se debe conocer nodejs, git, la terminal de sistema operativo, es6+ y variables de entorno
 
 | comandos npm | descripción |
 | ----------- | ----------- |
