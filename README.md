@@ -1,6 +1,6 @@
 # TWITCH CHAT BOT
 
-bot de codigo abierto para el realizar chatbots con nodejs para la realizacion de chat bot en twitch usando variables de etorno en el proyecto se debe contar con un archivo .env para desarrollo
+bot de codigo abierto para el realizar chatbots con nodejs para la realizacion de chat bot en twitch usando variables de etorno
 
 ## NPM modules:
 
@@ -8,13 +8,7 @@ bot de codigo abierto para el realizar chatbots con nodejs para la realizacion d
 * dotenv
 * nodemon *solo para desarrollo*
 
-para el desarrollo  o aportar de bot se debe conocer nodejs, git, la terminal de sistema operativo, es6+ y variables de entorno
-
-| comandos npm | descripción |
-| ----------- | ----------- |
-| npm i o npm install | instalar las dependencias |
-| npm start | inicia el proyecto de node sin detectar cambios |
-| npm run dev | ejecuta el nodemon detectar cambios sin salir |
+para el desarrollo  o aportar de bot se debe conocer nodejs, es6+ y variables de entorno
 
 ejemplos:
 
